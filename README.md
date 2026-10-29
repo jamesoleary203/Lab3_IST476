@@ -4,13 +4,6 @@
 **Lab:** Assessing the Network with Common Security Tools (Jones & Bartlett *Ethical Hacking, 4e*)
 **Author:** James O'Leary
 
-> **Authorized classroom simulation.** Every action here was performed inside an
-> isolated, instructor-provided VMware lab on a private `172.30.0.0/24` segment. The
-> hosts (`vWorkstation`, `TargetWindows01`) and the `pfSense` firewall are lab fixtures.
-> No real network, host, or device was scanned. The point of the exercise is reading
-> what common tools put on the wire and knowing what each observation does and does not
-> prove.
-
 ---
 
 ## What this lab covers
